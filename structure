@@ -1,0 +1,14 @@
+/yarr (root folder)
+    /frontend (React, Vue, etc., for the UI)
+        /public (static files like images, icons)
+        /src (JS, components, etc.)
+        /assets (CSS, JS)
+        package.json
+    /backend (Express, Node.js, or other backend code)
+        /controllers (handle business logic)
+        /models (database schemas)
+        /routes (API routes)
+        /middlewares (authentication, file validation)
+        package.json
+    .gitignore
+    README.md
